@@ -13,4 +13,17 @@ The application must include the following:
 1. You must also include enough documentation so that a novice user could use your application.
 1. The documentation should be at the Shiny website itself. Do not post to an external link.
 
+The Shiny project can be accessed at [[https://dslearner84.shinyapps.io/ShinyCourseProject/][https://dslearner84.shinyapps.io/ShinyCourseProject/]]
+
 # Reproducible Pitch Presentation
+
+1. 5 slides to pitch our idea done in Slidify or Rstudio Presenter
+1. Your presentation pushed to github or Rpubs
+1. A link to your github or Rpubs presentation pasted into the provided text box
+
+Your presentation must satisfy the following
+
+1. It must be done in Slidify or Rstudio Presenter
+1. It must be 5 pages
+1. It must be hosted on github or Rpubs
+1. It must contained some embedded R code that gets run when slidifying the document
