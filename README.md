@@ -27,3 +27,5 @@ Your presentation must satisfy the following
 1. It must be 5 pages
 1. It must be hosted on github or Rpubs
 1. It must contained some embedded R code that gets run when slidifying the document
+
+The Reproducible pitch presentation can be accessed at dslearner84.github.io/slidify_coursera_proj/
