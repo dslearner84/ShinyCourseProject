@@ -13,7 +13,7 @@ The application must include the following:
 1. You must also include enough documentation so that a novice user could use your application.
 1. The documentation should be at the Shiny website itself. Do not post to an external link.
 
-The Shiny project can be accessed at [[https://dslearner84.shinyapps.io/ShinyCourseProject/][https://dslearner84.shinyapps.io/ShinyCourseProject/]]
+The Shiny project can be accessed at https://dslearner84.shinyapps.io/ShinyCourseProject/
 
 # Reproducible Pitch Presentation
 
